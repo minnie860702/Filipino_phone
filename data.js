@@ -530,5 +530,81 @@ const MARKET_DATA = [
       { "brand": "Apple", "share": 3.6, "change": "-0.1%", "rank": 9 },
       { "brand": "HONOR", "share": 2.0, "change": "0.0%", "rank": 10 }
     ]
+  },
+  {
+    "month": "2026/07",
+    "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/philippines",
+    "salesTop20": [
+      { "rank": 1, "brand": "TECNO", "model": "Spark 30 Pro 256GB" },
+      { "rank": 2, "brand": "Infinix", "model": "HOT 50i 128GB" },
+      { "rank": 3, "brand": "Samsung", "model": "Galaxy A06 128GB" },
+      { "rank": 4, "brand": "Samsung", "model": "Galaxy A16 5G 128GB" },
+      { "rank": 5, "brand": "Xiaomi", "model": "Redmi 14C 128GB" },
+      { "rank": 6, "brand": "Realme", "model": "C65 256GB" },
+      { "rank": 7, "brand": "Infinix", "model": "NOTE 50 Pro 256GB" },
+      { "rank": 8, "brand": "Samsung", "model": "Galaxy A56 5G 256GB" },
+      { "rank": 9, "brand": "TECNO", "model": "POVA 6 Pro 5G 256GB" },
+      { "rank": 10, "brand": "OPPO", "model": "A3 128GB" },
+      { "rank": 11, "brand": "Xiaomi", "model": "Redmi Note 14 5G 256GB" },
+      { "rank": 12, "brand": "Realme", "model": "13 5G 256GB" },
+      { "rank": 13, "brand": "vivo", "model": "Y03 128GB" },
+      { "rank": 14, "brand": "OPPO", "model": "Reno13 5G 256GB" },
+      { "rank": 15, "brand": "itel", "model": "P55 5G 128GB" },
+      { "rank": 16, "brand": "vivo", "model": "Y28 5G 256GB" },
+      { "rank": 17, "brand": "Apple", "model": "iPhone 16 128GB" },
+      { "rank": 18, "brand": "Apple", "model": "iPhone 15 128GB" },
+      { "rank": 19, "brand": "TECNO", "model": "CAMON 30 5G 256GB" },
+      { "rank": 20, "brand": "HONOR", "model": "X8b 256GB" }
+    ],
+    "brandShare": [
+      { "brand": "TECNO", "share": 17.5, "change": "-0.1%", "rank": 1 },
+      { "brand": "Samsung", "share": 16.0, "change": "+0.1%", "rank": 2 },
+      { "brand": "Infinix", "share": 14.9, "change": "+0.1%", "rank": 3 },
+      { "brand": "Realme", "share": 11.8, "change": "-0.1%", "rank": 4 },
+      { "brand": "Xiaomi", "share": 11.7, "change": "+0.1%", "rank": 5 },
+      { "brand": "OPPO", "share": 10.3, "change": "-0.1%", "rank": 6 },
+      { "brand": "vivo", "share": 7.4, "change": "+0.1%", "rank": 7 },
+      { "brand": "itel", "share": 4.8, "change": "-0.1%", "rank": 8 },
+      { "brand": "Apple", "share": 3.5, "change": "-0.1%", "rank": 9 },
+      { "brand": "HONOR", "share": 2.1, "change": "+0.1%", "rank": 10 }
+    ]
+  },
+  {
+    "month": "2026/08",
+    "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/philippines",
+    "salesTop20": [
+      { "rank": 1, "brand": "TECNO", "model": "Spark 30 Pro 256GB" },
+      { "rank": 2, "brand": "Infinix", "model": "HOT 50i 128GB" },
+      { "rank": 3, "brand": "Samsung", "model": "Galaxy A16 5G 128GB" },
+      { "rank": 4, "brand": "Samsung", "model": "Galaxy A06 128GB" },
+      { "rank": 5, "brand": "Xiaomi", "model": "Redmi 14C 128GB" },
+      { "rank": 6, "brand": "Infinix", "model": "NOTE 50 Pro 256GB" },
+      { "rank": 7, "brand": "Realme", "model": "C65 256GB" },
+      { "rank": 8, "brand": "Samsung", "model": "Galaxy A56 5G 256GB" },
+      { "rank": 9, "brand": "TECNO", "model": "POVA 6 Pro 5G 256GB" },
+      { "rank": 10, "brand": "OPPO", "model": "A3 128GB" },
+      { "rank": 11, "brand": "Xiaomi", "model": "Redmi Note 14 5G 256GB" },
+      { "rank": 12, "brand": "Realme", "model": "13 5G 256GB" },
+      { "rank": 13, "brand": "OPPO", "model": "Reno13 5G 256GB" },
+      { "rank": 14, "brand": "vivo", "model": "Y03 128GB" },
+      { "rank": 15, "brand": "itel", "model": "P55 5G 128GB" },
+      { "rank": 16, "brand": "vivo", "model": "Y28 5G 256GB" },
+      { "rank": 17, "brand": "Apple", "model": "iPhone 16 128GB" },
+      { "rank": 18, "brand": "Apple", "model": "iPhone 15 128GB" },
+      { "rank": 19, "brand": "TECNO", "model": "CAMON 30 5G 256GB" },
+      { "rank": 20, "brand": "HONOR", "model": "X8b 256GB" }
+    ],
+    "brandShare": [
+      { "brand": "TECNO", "share": 17.6, "change": "+0.1%", "rank": 1 },
+      { "brand": "Samsung", "share": 16.1, "change": "+0.1%", "rank": 2 },
+      { "brand": "Infinix", "share": 15.0, "change": "+0.1%", "rank": 3 },
+      { "brand": "Realme", "share": 11.7, "change": "-0.1%", "rank": 4 },
+      { "brand": "Xiaomi", "share": 11.8, "change": "+0.1%", "rank": 5 },
+      { "brand": "OPPO", "share": 10.2, "change": "-0.1%", "rank": 6 },
+      { "brand": "vivo", "share": 7.3, "change": "-0.1%", "rank": 7 },
+      { "brand": "itel", "share": 4.7, "change": "-0.1%", "rank": 8 },
+      { "brand": "Apple", "share": 3.5, "change": "0.0%", "rank": 9 },
+      { "brand": "HONOR", "share": 2.1, "change": "0.0%", "rank": 10 }
+    ]
   }
 ];
